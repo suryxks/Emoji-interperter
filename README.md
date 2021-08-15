@@ -1,2 +1,2 @@
 # Emoji-interperter
-Created with CodeSandbox
+Fruit Emoji interpreter made using react.js
